@@ -1,1 +1,1 @@
-{"address":"www.google.com"}
+{"address":"https://www.google.com/?hl=fa"}
