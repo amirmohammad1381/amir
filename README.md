@@ -1,1 +1,1 @@
-{"address":"https://www.google.com/?hl=fa"}
+{"address":"https://www.farsroid.com/"}
