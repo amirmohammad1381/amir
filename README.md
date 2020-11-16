@@ -1,3 +1,3 @@
 {
-"address":"https://www.google.com/?hl=fa"
+"address":"http://ai2.appinventor.mit.edu/"
 }
