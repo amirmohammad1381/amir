@@ -1,3 +1,3 @@
 {
-"address":"http://ai2.appinventor.mit.edu/"
+"address":"https://appinventor.mit.edu/"
 }
